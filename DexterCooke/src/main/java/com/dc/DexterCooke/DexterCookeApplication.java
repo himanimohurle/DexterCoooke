@@ -9,8 +9,7 @@ public class DexterCookeApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(DexterCookeApplication.class, args);
 		System.out.println("Hello");
-		System.out.println("First Commit");
-		System.out.println("Second Push");
+		
 	}
 
 }
